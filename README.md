@@ -75,6 +75,38 @@ The following questions were addressed as part of the task, demonstrating unders
 * Social engineering
 * Threat detection
 
+  ### Awareness about phishing
+![Screenshot 2025-07-02 195413](https://github.com/user-attachments/assets/67d0aefe-29dc-4300-bf27-731dbf057f46)
+![Screenshot 2025-07-02 195603](https://github.com/user-attachments/assets/cbc44bf2-2091-42ef-8a22-bfdd1c296ac2)
+![Screenshot 2025-07-02 195833](https://github.com/user-attachments/assets/f1444a76-3f08-42d8-9634-17669bf0e3e3)
+## Image describes
+📧 Suspicious sender – Email address doesn’t match the claimed organization.
+
+⚠️ Urgent or threatening tone – Pressures you to act quickly.
+
+🔗 Mismatched links – Hovering reveals a different URL than shown.
+
+📎 Unexpected attachments – Especially from unknown senders.
+
+🧾 Grammatical errors – Poor language often signals fraud.
+
+🚨 Why Phishing Awareness Matters
+Prevalence: Over 80% of cyberattacks begin with phishing.
+
+Impact: It can lead to identity theft, financial loss, and data breaches.
+
+Deceptiveness: Phishing emails often look legitimate, making them hard to detect without training
+
+🛡️ Key Awareness Tips
+Verify the sender: Always check the email address, not just the display name.
+
+Hover before you click: Inspect links before clicking—mismatched URLs are a red flag.
+
+Watch for urgency: Phishing emails often create panic to rush your decision.
+
+Check for errors: Typos and awkward grammar are common in phishing attempts.
+
+Don’t trust attachments blindly: Especially if unexpected or from unknown sources.
 
 This project focuses on analyzing email headers to detect phishing and spoofed emails using SPF, DKIM, and DMARC authentication results.
 
