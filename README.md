@@ -75,6 +75,11 @@ The following questions were addressed as part of the task, demonstrating unders
 * Social engineering
 * Threat detection
 
+# TXT Record
+
+ TXT records are free text fields where any text-based data can be stored. TXT records have multiple uses, but some common ones can be to list servers that have the authority to send an email on behalf of the domain (this can help in the battle against spam and spoofed email). They can also be used to verify ownership of the domain name when signing up for third party services.
+
+
   ### Awareness about phishing
 ![Screenshot 2025-07-02 195413](https://github.com/user-attachments/assets/67d0aefe-29dc-4300-bf27-731dbf057f46)
 ![Screenshot 2025-07-02 195603](https://github.com/user-attachments/assets/cbc44bf2-2091-42ef-8a22-bfdd1c296ac2)
